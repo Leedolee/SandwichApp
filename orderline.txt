@@ -1,0 +1,5 @@
+Dec 10, 2019, 8:51:59 PM	Lee Tran	White Bread	red onions, olives, pickles, 	Ham	$2.95
+Dec 10, 2019, 9:03:51 PM	Lee tran	White Bread	red onions, olives, pickles, 	Ham	$2.95
+Dec 10, 2019, 9:04:16 PM	Lee Tran	White Bread	red onions, olives, pickles, 	Ham	$2.95
+Dec 10, 2019, 9:04:33 PM	Lee Tran	Wheat Bread	red onions, olives, pickles, red onions, olives, pickles, 	Ham	$3.0500000000000003
+Nov 4, 2021, 2:03:04 PM	2	White Bread	red onions, olives, pickles, 	Ham	$2.95
